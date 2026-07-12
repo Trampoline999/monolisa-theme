@@ -78,11 +78,17 @@
   },
   "tokenColors": [
     {
-      "name": "Double Quoted Strings",
+      "name": "All Quoted Strings",
       "scope": [
         "string.quoted.double",
         "punctuation.definition.string.begin.double",
-        "punctuation.definition.string.end.double"
+        "punctuation.definition.string.end.double",
+        "string.quoted.single",
+        "punctuation.definition.string.begin.single",
+        "punctuation.definition.string.end.single",
+        "string.template",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end"
       ],
       "settings": {
         "foreground": "#b8d4a0"
