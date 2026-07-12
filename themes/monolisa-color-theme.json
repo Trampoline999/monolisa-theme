@@ -572,7 +572,7 @@
       "scope": "keyword",
       "settings": {
         "foreground": "#e5ce5c",
-        "fontStyle": "italic bold"
+        "fontStyle": "bold"
       }
     },
     {
@@ -1830,7 +1830,6 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#5c7a9c"
       }
     },
@@ -1866,23 +1865,17 @@
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     }
   ],
   "colors": {
@@ -2141,6 +2134,7 @@
     "breadcrumb.activeSelectionForeground": "#bbd5ed",
     "editorGutter.commentRangeForeground": "#bbd5ed",
     "debugExceptionWidget.background": "#214462",
-    "debugExceptionWidget.border": "#e5ce5c80"
+    "debugExceptionWidget.border": "#e5ce5c80",
+    "terminal.background": "#122a40"
   }
 }
