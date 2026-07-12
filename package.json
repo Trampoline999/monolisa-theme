@@ -1,0 +1,22 @@
+{
+  "name": "monolisa",
+  "displayName": "Monolisa",
+  "publisher": "your-publisher-name",
+  "description": "Custom VSCode theme based on Motion Blue",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monolisa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monolisa-color-theme.json"
+      }
+    ]
+  }
+}
