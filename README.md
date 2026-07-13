@@ -4,7 +4,7 @@ A beautiful, dark custom theme for Visual Studio Code, inspired by Motion Blue b
 
 ## Features
 
-- Deep, rich blue background (`#122a40`)
+- Deep, rich blue background (`#183752`)
 - Custom semantic highlighting
 - Unique color palette tailored for readability
 
