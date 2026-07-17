@@ -2,8 +2,8 @@
   "name": "monolisa",
   "displayName": "Monolisa",
   "publisher": "OnkarChougule99",
-  "description": "A beautiful, eye-friendly dark custom theme featuring two variations and custom semantic highlighting for a focused coding experience.",
-  "version": "0.0.1",
+  "description": "A beautiful, eye-friendly dark custom theme featuring three variations and custom semantic highlighting for a focused coding experience.",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -21,6 +21,11 @@
         "label": "Monolisa Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/monolisa-modern-color-theme.json"
+      },
+      {
+        "label": "Monolisa Deep Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monolisa-deep-blue-color-theme.json"
       }
     ]
   }

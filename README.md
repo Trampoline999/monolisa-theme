@@ -4,7 +4,7 @@ A beautiful, dark custom theme for Visual Studio Code featuring customized highl
 
 ## Features
 
-- **Two Variations**: Includes `Monolisa` and `Monolisa Modern` to suit your preference.
+- **Three Variations**: Includes `Monolisa`, `Monolisa Modern`, and `Monolisa Deep Blue` to suit your preference.
 - **Eye-friendly**: Deep, rich blue background (`#183752`) designed to reduce eye strain.
 - **Syntax Highlighting**: Custom semantic highlighting for better code readability and structure recognition.
 - **Unique Palette**: A carefully selected color palette tailored for long coding sessions.
@@ -15,7 +15,7 @@ A beautiful, dark custom theme for Visual Studio Code featuring customized highl
 2. Search for **"Monolisa"**.
 3. Click **Install**.
 4. Navigate to **Preferences: Color Theme** (`Cmd+K Cmd+T` or `Ctrl+K Ctrl+T`).
-5. Select either **"Monolisa"** or **"Monolisa Modern"** from the dropdown menu.
+5. Select **"Monolisa"**, **"Monolisa Modern"**, or **"Monolisa Deep Blue"** from the dropdown menu.
 
 ## Feedback
 
