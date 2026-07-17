@@ -1,8 +1,8 @@
 {
   "name": "monolisa",
   "displayName": "Monolisa",
-  "publisher": "your-publisher-name",
-  "description": "Custom VSCode theme based on Motion Blue",
+  "publisher": "onkar-chougule",
+  "description": "A beautiful, eye-friendly dark custom theme featuring two variations and custom semantic highlighting for a focused coding experience.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
