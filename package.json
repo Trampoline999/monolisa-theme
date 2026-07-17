@@ -16,6 +16,11 @@
         "label": "Monolisa",
         "uiTheme": "vs-dark",
         "path": "./themes/monolisa-color-theme.json"
+      },
+      {
+        "label": "Monolisa Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monolisa-modern-color-theme.json"
       }
     ]
   }
