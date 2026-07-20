@@ -1,5 +1,5 @@
 {
-    "name": "Monolisa",
+    "name": "Stellar Dust Andromeda",
     "type": "dark",
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -41,7 +41,7 @@
         "function.builtin": "#82d2ce",
         "class.builtin": "#82d2ce",
         "class.declaration:python": "#87c3ff",
-        "support.variable.property": "#86B7FC",
+        "support.variable.property": "#00bff8",
         "class.decorator.builtin:python": "#a8cc7c",
         "operatorOverload": "#d1d1d1",
         "memberOperatorOverload": "#d1d1d1",
@@ -302,7 +302,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00bff8"
             }
         },
         {
@@ -1893,7 +1893,7 @@
             "scope": "comment, punctuation.definition.comment",
             "settings": {
                 "foreground": "#6D6D6D",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1930,7 +1930,7 @@
             "name": "comment",
             "scope": "comment.line.double-slash,comment.block.documentation",
             "settings": {
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1955,17 +1955,26 @@
             }
         },
         {
-            "name": "null, undefined, true, false constants",
+            "name": "null, undefined constants",
             "scope": [
                 "constant.language.null",
-                "constant.language.undefined",
+                "constant.language.undefined"
+            ],
+            "settings": {
+                "foreground": "#00bff8",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "true, false constants",
+            "scope": [
                 "constant.language.boolean",
                 "constant.language.false",
                 "constant.language.true"
             ],
             "settings": {
                 "foreground": "#00bff8",
-                "fontStyle": ""
+                "fontStyle": "bold"
             }
         },
         {
@@ -2024,7 +2033,7 @@
             "name": "support.variable.property",
             "scope": "support.variable.property",
             "settings": {
-                "foreground": "#86B7FC"
+                "foreground": "#00bff8"
             }
         },
         {

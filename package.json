@@ -1,9 +1,11 @@
 {
-  "name": "monolisa",
-  "displayName": "Monolisa",
+  "name": "stellar-dust",
+  "displayName": "Stellar Dust",
   "publisher": "OnkarChougule99",
+  "license": "MIT",
   "description": "A beautiful, eye-friendly dark custom theme featuring three variations and custom semantic highlighting for a focused coding experience.",
-  "version": "1.0.1",
+  "version": "0.0.1",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,19 +15,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monolisa Modern",
+        "label": "Stellar Dust",
         "uiTheme": "vs-dark",
-        "path": "./themes/monolisa-modern-color-theme.json"
+        "path": "./themes/stellar-dust-deep-blue-color-theme.json"
       },
       {
-        "label": "Monolisa Deep Blue",
+        "label": "Stellar Dust Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/monolisa-deep-blue-color-theme.json"
+        "path": "./themes/stellar-dust-modern-color-theme.json"
       },
       {
-        "label": "Monolisa",
+        "label": "Stellar Dust Andromeda",
         "uiTheme": "vs-dark",
-        "path": "./themes/monolisa-color-theme.json"
+        "path": "./themes/stellar-dust-color-theme.json"
       }
     ]
   }
