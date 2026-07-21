@@ -28,9 +28,9 @@
         "variable.declaration.readonly:c": "#d1d1d1",
         "variable.readonly:cpp": "#d1d1d1",
         "variable.readonly:c": "#d1d1d1",
-        "variable.other.property.ts": "#86B7FC",
-        "variable.other.property": "#86B7FC",
-        "variable.other": "#86B7FC",
+        "variable.other.property.ts": "#00bff8",
+        "variable.other.property": "#00bff8",
+        "variable.other": "#D6D6DD",
         "meta.definition.property.ts": {
             "foreground": "#86B7FC",
             "fontStyle": "bold"
@@ -302,7 +302,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#00bff8"
+                "foreground": "#D6D6DD"
             }
         },
         {
@@ -1922,7 +1922,7 @@
             "name": "js/ts italic",
             "scope": "variable.parameter,variable.language.super",
             "settings": {
-                "foreground": "#D6D6DD",
+                "foreground": "#86B7FC",
                 "fontStyle": ""
             }
         },
@@ -1961,8 +1961,7 @@
                 "constant.language.undefined"
             ],
             "settings": {
-                "foreground": "#00bff8",
-                "fontStyle": ""
+                "foreground": "#f34088"
             }
         },
         {
@@ -1973,7 +1972,7 @@
                 "constant.language.true"
             ],
             "settings": {
-                "foreground": "#00bff8",
+                "foreground": "#D8DEE9",
                 "fontStyle": "bold"
             }
         },
@@ -2012,7 +2011,7 @@
             "name": "variable.other.property",
             "scope": "variable.other.property",
             "settings": {
-                "foreground": "#86B7FC"
+                "foreground": "#BBD5ED"
             }
         },
         {
