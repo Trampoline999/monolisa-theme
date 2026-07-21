@@ -29,7 +29,7 @@
         "variable.readonly:c": "#d1d1d1",
         "variable.other.property.ts": "#00bff8",
         "variable.other.property": "#00bff8",
-        "variable.other": "#D6D6DD",
+        "variable.other": "#86B7FC",
         "meta.definition.property.ts": {
             "foreground": "#86B7FC",
             "fontStyle": "bold"
@@ -2271,7 +2271,7 @@
             "name": "variable.other.property",
             "scope": "variable.other.property",
             "settings": {
-                "foreground": "#BBD5ED"
+                "foreground": "#86B7FC"
             }
         },
         {
@@ -2285,7 +2285,7 @@
             "name": "variable.other.readwrite",
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#BBD5ED"
+                "foreground": "#D6D6DD"
             }
         },
         {

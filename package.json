@@ -4,7 +4,7 @@
   "publisher": "OnkarChougule99",
   "license": "MIT",
   "description": "A beautiful, eye-friendly dark custom theme featuring three variations and custom semantic highlighting for a focused coding experience.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "logo.png",
   "engines": {
     "vscode": "^1.80.0"
