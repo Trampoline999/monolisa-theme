@@ -27,8 +27,8 @@
         "variable.declaration.readonly:c": "#d1d1d1",
         "variable.readonly:cpp": "#d1d1d1",
         "variable.readonly:c": "#d1d1d1",
-        "variable.other.property.ts": "#00bff8",
-        "variable.other.property": "#00bff8",
+        "variable.other.property.ts": "#FF7EDB",
+        "variable.other.property": "#FF7EDB",
         "variable.other": "#86B7FC",
         "meta.definition.property.ts": {
             "foreground": "#86B7FC",
@@ -561,7 +561,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#D6D6DD"
+                "foreground": "#00BFF8"
             }
         },
         {
@@ -2181,8 +2181,8 @@
             "name": "js/ts italic",
             "scope": "variable.parameter,variable.language.super",
             "settings": {
-                "foreground": "#86B7FC",
-                "fontStyle": ""
+                "foreground": "#d6d6dd",
+                "fontStyle": "italic"
             }
         },
         {
@@ -2285,14 +2285,14 @@
             "name": "variable.other.readwrite",
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#D6D6DD"
+                "foreground": "#86B7FC"
             }
         },
         {
             "name": "support.variable.property",
             "scope": "support.variable.property",
             "settings": {
-                "foreground": "#00bff8"
+                "foreground": "#FF7EDB"
             }
         },
         {
