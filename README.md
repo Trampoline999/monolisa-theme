@@ -17,6 +17,26 @@ A beautiful, dark custom theme for Visual Studio Code featuring customized highl
 4. Navigate to **Preferences: Color Theme** (`Cmd+K Cmd+T` or `Ctrl+K Ctrl+T`).
 5. Select **"Stellar Dust"**, **"Stellar Dust Modern"**, or **"Stellar Dust Deep Blue"** from the dropdown menu.
 
+## How to Disable Italics
+
+If you prefer not to have italicized text (such as parameter variables or comments), you can disable italics by adding the following configuration to your VS Code `settings.json`:
+
+```json
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": [
+                "variable.parameter",
+                "comment"
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        }
+    ]
+}
+```
+
 ## Feedback
 
 Found a bug or have a suggestion? Feel free to share your feedback!

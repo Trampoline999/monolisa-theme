@@ -40,8 +40,8 @@
         },
         "function.builtin": "#82d2ce",
         "class.builtin": "#82d2ce",
-        "class.declaration:python": "#87c3ff",
-        "support.variable.property": "#00bff8",
+        "class.declaration:python": "#86B7FC",
+        "support.variable.property": "#86B7FC",
         "class.decorator.builtin:python": "#a8cc7c",
         "operatorOverload": "#d1d1d1",
         "memberOperatorOverload": "#d1d1d1",
@@ -302,7 +302,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#00BFF8"
+                "foreground": "#86B7FC"
             }
         },
         {
@@ -2025,7 +2025,7 @@
             "name": "variable.other.readwrite",
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#86B7FC"
+                "foreground": "#d6d6dd"
             }
         },
         {
