@@ -13,11 +13,11 @@
             "foreground": "#D5CED9"
         },
         "method.declaration": {
-            "foreground": "#6eb8d4",
+            "foreground": "#00E8C6",
             "fontStyle": "bold"
         },
         "function.declaration": {
-            "foreground": "#6eb8d4",
+            "foreground": "#00E8C6",
             "fontStyle": "bold"
         },
         "variable.defaultLibrary.globalScope": {
@@ -91,7 +91,7 @@
                 "punctuation.definition.string.template.end"
             ],
             "settings": {
-                "foreground": "#5DE4C7"
+                "foreground": "#E5DCB4"
             }
         },
         {
@@ -176,7 +176,7 @@
             "name": "entity.name.lifetime.rust",
             "scope": "entity.name.lifetime.rust",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -232,7 +232,7 @@
             "name": "markup diff",
             "scope": "markup.changed.diff",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -288,7 +288,7 @@
             "name": "math js/ts",
             "scope": "support.constant.math",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -312,7 +312,7 @@
                 "storage.type.object.array.java"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -424,14 +424,14 @@
             "name": "js/ts module",
             "scope": "support.module.node,support.type.object.module,support.module.node",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
             "name": "entity.name.type.module",
             "scope": "entity.name.type.module",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -675,7 +675,7 @@
             "name": "Java Imports",
             "scope": "import.storage.java",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -701,14 +701,14 @@
                 "variable.function"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
             "name": "Classes",
             "scope": "entity.name.type.namespace",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -722,7 +722,7 @@
             "name": "Class name",
             "scope": "entity.name.class.identifier.namespace.type",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -747,7 +747,7 @@
             "name": "Type Name",
             "scope": "entity.name.type",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -797,14 +797,14 @@
             "name": "Java Storage",
             "scope": "token.storage.type.java",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
             "name": "Support",
             "scope": "support.function",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -846,7 +846,7 @@
             "name": "Inherited Class",
             "scope": "entity.other.inherited-class",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -939,7 +939,7 @@
             "name": "Bold",
             "scope": "markup.bold,todo.bold",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1183,7 +1183,7 @@
             "name": "use statement for other classes",
             "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1225,7 +1225,7 @@
             "name": "php types",
             "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1379,7 +1379,7 @@
             "name": "cs storage type",
             "scope": "storage.type.cs",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1457,7 +1457,7 @@
                 "support.type.primitive"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1529,7 +1529,7 @@
                 "keyword.operator.assignment.go"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1548,7 +1548,7 @@
                 "entity.name.package.go"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1603,7 +1603,7 @@
                 "entity.global.clojure"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1658,7 +1658,7 @@
                 "source.makefile"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1667,7 +1667,7 @@
                 "storage.modifier.import.groovy"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1703,7 +1703,7 @@
                 "support.variable.semantic.hlsl"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1737,7 +1737,7 @@
                 "support.type.vb.asp"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1746,7 +1746,7 @@
                 "entity.name.function.xi"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1865,7 +1865,7 @@
                 "entity.name.scope-resolution.function.definition"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1922,8 +1922,8 @@
             "name": "js/ts italic",
             "scope": "variable.parameter,variable.language.super",
             "settings": {
-                "foreground": "#d6d6dd",
-                "fontStyle": "italic"
+                "foreground": "#BBD5ED",
+                "fontStyle": ""
             }
         },
         {
@@ -2025,7 +2025,7 @@
             "name": "variable.other.readwrite",
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#d6d6dd"
+                "foreground": "#86B7FC"
             }
         },
         {
@@ -2051,7 +2051,7 @@
                 "variable.function"
             ],
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#00E8C6"
             }
         },
         {
